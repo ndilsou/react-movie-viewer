@@ -1,0 +1,25 @@
+.video_wrapper {
+  position: relative;
+}
+.video_wrapper-w1h1 {
+  padding-bottom: 100%;
+}
+.video_wrapper-w16h9 {
+  padding-bottom: 56.25%;
+}
+.video_wrapper-w4h3 {
+  padding-bottom: 75%;
+}
+.video_wrapper-w3h2 {
+  padding-bottom: 66.66%;
+}
+.video_wrapper-w8h5 {
+  padding-bottom: 62.5%
+}
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
